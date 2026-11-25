@@ -40,6 +40,6 @@ The 2022 numerical indicators are compared with country metadata retrieved on 23
 
 PCA retains at least 80% of standardized-feature variance. Large variance is not identical to substantive importance. Two plotted PCs omit variation used by the six-dimensional model. Cluster count is selected among k=2 through 8, not over every possible partition. Ward and K-means use the same representation and k, but their objectives differ. ARI/NMI quantify agreement, not accuracy. Silhouettes in different transformed spaces or samples must not be ranked as universal measures of quality. The study is descriptive, uses one year, weights economies equally, and does not establish causation.
 
-## Field-specific CAF isolation in the upgraded code
+## Sensitivity to the CAF life expectancy value
 
 A second diagnostic retains CAF and masks only its life-expectancy field before using the same global median-imputation procedure and refitting scaling/PCA. It retains 205 economies and imputes 198 cells. Relative to each algorithm's own main partition, K-means ARI is 0.980 and Ward ARI is 0.618. Dropping CAF gives 204 common economies and ARIs 0.980 and 0.960 respectively. The two treatments answer different questions; the higher sensitivity of Ward to field masking is explicitly retained in the interpretation. Neither replaces the source observation in the primary fit.

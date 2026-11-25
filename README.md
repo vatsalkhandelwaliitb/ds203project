@@ -1,6 +1,6 @@
-# DS203: nation clustering - complete code submission
+# DS203 Nation Clustering
 
-Start with **[Nation_Clustering.ipynb](Nation_Clustering.ipynb)**. It is executed and includes the figures, tables, numerical results, decision explanations and limitations. All implementation is editable in `analysis.py`.
+The [notebook](Nation_Clustering.ipynb) shows how 11 World Bank indicators group 205 economies using PCA, K-means and Ward clustering. The pipeline is implemented in `analysis.py`.
 
 This repository contains the DS203 nation clustering code. The report and video accompany the separate course submission.
 
@@ -34,7 +34,7 @@ python execute_notebook.py --clean-outputs
 python tests/check_results.py
 ```
 
-The numerical analysis needs **no network access, API key or missing bulk CSV**. The pinned requirements include IPython, ipykernel, nbclient and nbformat for the real-kernel execution command. A JupyterLab/Notebook user interface is optional; use your existing installation to view/edit the notebook. Runtime on a typical laptop should be short for 205 economies, but varies with the environment. The code caps numerical worker threads for this small problem.
+After installing the dependencies, the notebook and script run offline using the frozen data in this repository.
 
 ## Repository contents
 
@@ -98,7 +98,7 @@ The notebook contains the figures and results. It links to three included eviden
 | K-means / Ward silhouette | 0.3572 / 0.3400 |
 | Between-method ARI / NMI | 0.5712 / 0.4212 |
 
-These supersede the raw-GDP baseline **as the main configuration**. The raw-GDP diagnostic reproduces the teammate's 61/144 K-means split, 82.17% PCA retention and between-method ARI of 0.0801. Both results remain available, with their preprocessing explicitly distinguished.
+Using GDP per capita on its original scale reproduces the teammate baseline with a 61/144 K-means split, 82.17% PCA retention and a between-method ARI of 0.0801.
 
 The two-group main K-means partition is identical across ten tested random seeds. K-means also remains identical under the logged-GDP full-feature and 90%-PCA representations in these diagnostics; Ward varies more. The complete-case result concerns a smaller, selected sample. A stable split is evidence about these checks, not proof of uniquely natural country categories.
 
@@ -108,7 +108,7 @@ The exported table includes the main configuration and nine diagnostics: raw GDP
 
 **Do not rank silhouettes across different transformed spaces or samples as if they measured the same geometry.** Evaluate persistent conclusions, sample changes and interpretation together.
 
-## Integrity and meaningful checks
+## Validation
 
 The analysis checks snapshot hashes, uniqueness, aggregate exclusion, finite values, positive observed GDP, sample alignment, standardization and the PCA retention threshold. The test script additionally replaces all income/region/lending labels and confirms that preprocessing and both fitted partitions remain unchanged. It joins exported and expected assignments by country code and verifies both model labels. Row shuffling passes; swapping two exported country codes in a temporary copy makes the actual test script fail. It also compares the main assignments with the preserved audited v1 benchmark and verifies the original raw-GDP baseline. The test script prints its validation results.
 
