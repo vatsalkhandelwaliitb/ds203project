@@ -1,0 +1,13 @@
+Country Code,Country Name,IncomeGroup,Region,LendingType,missing_indicators,missing_fraction,retained,reason
+ASM,American Samoa,High income,East Asia & Pacific,Not classified,6,0.5454545454545454,False,Missing fraction exceeds 50%
+VGB,British Virgin Islands,High income,Latin America & Caribbean,Not classified,7,0.6363636363636364,False,Missing fraction exceeds 50%
+CUW,Curacao,High income,Latin America & Caribbean,Not classified,6,0.5454545454545454,False,Missing fraction exceeds 50%
+ERI,Eritrea,Low income,Sub-Saharan Africa,IDA,6,0.5454545454545454,False,Missing fraction exceeds 50%
+GIB,Gibraltar,High income,Europe & Central Asia,Not classified,7,0.6363636363636364,False,Missing fraction exceeds 50%
+IMN,Isle of Man,High income,Europe & Central Asia,Not classified,6,0.5454545454545454,False,Missing fraction exceeds 50%
+PRK,"Korea, Dem. People's Rep.",Low income,East Asia & Pacific,Not classified,7,0.6363636363636364,False,Missing fraction exceeds 50%
+LIE,Liechtenstein,High income,Europe & Central Asia,Not classified,6,0.5454545454545454,False,Missing fraction exceeds 50%
+SXM,Sint Maarten (Dutch part),High income,Latin America & Caribbean,Not classified,6,0.5454545454545454,False,Missing fraction exceeds 50%
+SSD,South Sudan,Low income,Sub-Saharan Africa,IDA,6,0.5454545454545454,False,Missing fraction exceeds 50%
+MAF,St. Martin (French part),High income,Latin America & Caribbean,Not classified,8,0.7272727272727273,False,Missing fraction exceeds 50%
+YEM,"Yemen, Rep.",Low income,"Middle East, North Africa, Afghanistan & Pakistan",IDA,7,0.6363636363636364,False,Missing fraction exceeds 50%

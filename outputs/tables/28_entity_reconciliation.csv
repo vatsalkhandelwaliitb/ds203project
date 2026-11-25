@@ -1,0 +1,267 @@
+Country Name,Country Code,API_country_id,status
+Afghanistan,AFG,AF,eligible_economy
+Africa Eastern and Southern,AFE,ZH,coded_aggregate
+Africa Western and Central,AFW,ZI,coded_aggregate
+Albania,ALB,AL,eligible_economy
+Algeria,DZA,DZ,eligible_economy
+American Samoa,ASM,AS,eligible_economy
+Andorra,AND,AD,eligible_economy
+Angola,AGO,AO,eligible_economy
+Antigua and Barbuda,ATG,AG,eligible_economy
+Arab World,ARB,1A,coded_aggregate
+Argentina,ARG,AR,eligible_economy
+Armenia,ARM,AM,eligible_economy
+Aruba,ABW,AW,eligible_economy
+Australia,AUS,AU,eligible_economy
+Austria,AUT,AT,eligible_economy
+Azerbaijan,AZE,AZ,eligible_economy
+"Bahamas, The",BHS,BS,eligible_economy
+Bahrain,BHR,BH,eligible_economy
+Bangladesh,BGD,BD,eligible_economy
+Barbados,BRB,BB,eligible_economy
+Belarus,BLR,BY,eligible_economy
+Belgium,BEL,BE,eligible_economy
+Belize,BLZ,BZ,eligible_economy
+Benin,BEN,BJ,eligible_economy
+Bermuda,BMU,BM,eligible_economy
+Bhutan,BTN,BT,eligible_economy
+Bolivia,BOL,BO,eligible_economy
+Bosnia and Herzegovina,BIH,BA,eligible_economy
+Botswana,BWA,BW,eligible_economy
+Brazil,BRA,BR,eligible_economy
+British Virgin Islands,VGB,VG,eligible_economy
+Brunei Darussalam,BRN,BN,eligible_economy
+Bulgaria,BGR,BG,eligible_economy
+Burkina Faso,BFA,BF,eligible_economy
+Burundi,BDI,BI,eligible_economy
+Cabo Verde,CPV,CV,eligible_economy
+Cambodia,KHM,KH,eligible_economy
+Cameroon,CMR,CM,eligible_economy
+Canada,CAN,CA,eligible_economy
+Caribbean small states,CSS,S3,coded_aggregate
+Cayman Islands,CYM,KY,eligible_economy
+Central African Republic,CAF,CF,eligible_economy
+Central Europe and the Baltics,CEB,B8,coded_aggregate
+Chad,TCD,TD,eligible_economy
+Channel Islands,CHI,JG,eligible_economy
+Chile,CHL,CL,eligible_economy
+China,CHN,CN,eligible_economy
+Colombia,COL,CO,eligible_economy
+Comoros,COM,KM,eligible_economy
+"Congo, Dem. Rep.",COD,CD,eligible_economy
+"Congo, Rep.",COG,CG,eligible_economy
+Costa Rica,CRI,CR,eligible_economy
+Cote d'Ivoire,CIV,CI,eligible_economy
+Croatia,HRV,HR,eligible_economy
+Cuba,CUB,CU,eligible_economy
+Curacao,CUW,CW,eligible_economy
+Cyprus,CYP,CY,eligible_economy
+Czechia,CZE,CZ,eligible_economy
+Denmark,DNK,DK,eligible_economy
+Djibouti,DJI,DJ,eligible_economy
+Dominica,DMA,DM,eligible_economy
+Dominican Republic,DOM,DO,eligible_economy
+Early-demographic dividend,EAR,V2,coded_aggregate
+East Asia & Pacific,EAS,Z4,coded_aggregate
+East Asia & Pacific (IDA & IBRD countries),TEA,T4,coded_aggregate
+East Asia & Pacific (excluding high income),EAP,4E,coded_aggregate
+Ecuador,ECU,EC,eligible_economy
+"Egypt, Arab Rep.",EGY,EG,eligible_economy
+El Salvador,SLV,SV,eligible_economy
+Equatorial Guinea,GNQ,GQ,eligible_economy
+Eritrea,ERI,ER,eligible_economy
+Estonia,EST,EE,eligible_economy
+Eswatini,SWZ,SZ,eligible_economy
+Ethiopia,ETH,ET,eligible_economy
+Euro area,EMU,XC,coded_aggregate
+Europe & Central Asia,ECS,Z7,coded_aggregate
+Europe & Central Asia (IDA & IBRD countries),TEC,T7,coded_aggregate
+Europe & Central Asia (excluding high income),ECA,7E,coded_aggregate
+European Union,EUU,EU,coded_aggregate
+Faroe Islands,FRO,FO,eligible_economy
+Fiji,FJI,FJ,eligible_economy
+Finland,FIN,FI,eligible_economy
+"Fragility, Conflict, and Violence (FCV) situations",FCV,F2,coded_aggregate
+France,FRA,FR,eligible_economy
+French Polynesia,PYF,PF,eligible_economy
+Gabon,GAB,GA,eligible_economy
+"Gambia, The",GMB,GM,eligible_economy
+Georgia,GEO,GE,eligible_economy
+Germany,DEU,DE,eligible_economy
+Ghana,GHA,GH,eligible_economy
+Gibraltar,GIB,GI,eligible_economy
+Greece,GRC,GR,eligible_economy
+Greenland,GRL,GL,eligible_economy
+Grenada,GRD,GD,eligible_economy
+Guam,GUM,GU,eligible_economy
+Guatemala,GTM,GT,eligible_economy
+Guinea,GIN,GN,eligible_economy
+Guinea-Bissau,GNB,GW,eligible_economy
+Guyana,GUY,GY,eligible_economy
+Haiti,HTI,HT,eligible_economy
+Heavily indebted poor countries (HIPC),HPC,XE,coded_aggregate
+High income,,XD,uncoded_income_aggregate
+Honduras,HND,HN,eligible_economy
+"Hong Kong SAR, China",HKG,HK,eligible_economy
+Hungary,HUN,HU,eligible_economy
+IBRD only,IBD,XF,coded_aggregate
+IDA & IBRD total,IBT,ZT,coded_aggregate
+IDA blend,IDB,XH,coded_aggregate
+IDA only,IDX,XI,coded_aggregate
+IDA total,IDA,XG,coded_aggregate
+Iceland,ISL,IS,eligible_economy
+India,IND,IN,eligible_economy
+Indonesia,IDN,ID,eligible_economy
+"Iran, Islamic Rep.",IRN,IR,eligible_economy
+Iraq,IRQ,IQ,eligible_economy
+Ireland,IRL,IE,eligible_economy
+Isle of Man,IMN,IM,eligible_economy
+Israel,ISR,IL,eligible_economy
+Italy,ITA,IT,eligible_economy
+Jamaica,JAM,JM,eligible_economy
+Japan,JPN,JP,eligible_economy
+Jordan,JOR,JO,eligible_economy
+Kazakhstan,KAZ,KZ,eligible_economy
+Kenya,KEN,KE,eligible_economy
+Kiribati,KIR,KI,eligible_economy
+"Korea, Dem. People's Rep.",PRK,KP,eligible_economy
+"Korea, Rep.",KOR,KR,eligible_economy
+Kosovo,XKX,XK,eligible_economy
+Kuwait,KWT,KW,eligible_economy
+Kyrgyz Republic,KGZ,KG,eligible_economy
+Lao PDR,LAO,LA,eligible_economy
+Late-demographic dividend,LTE,V3,coded_aggregate
+Latin America & Caribbean,LCN,ZJ,coded_aggregate
+Latin America & Caribbean (excluding high income),LAC,XJ,coded_aggregate
+Latin America & the Caribbean (IDA & IBRD countries),TLA,T2,coded_aggregate
+Latvia,LVA,LV,eligible_economy
+Least developed countries: UN classification,LDC,XL,coded_aggregate
+Lebanon,LBN,LB,eligible_economy
+Lesotho,LSO,LS,eligible_economy
+Liberia,LBR,LR,eligible_economy
+Libya,LBY,LY,eligible_economy
+Liechtenstein,LIE,LI,eligible_economy
+Lithuania,LTU,LT,eligible_economy
+Low & middle income,LMY,XO,coded_aggregate
+Low income,,XM,uncoded_income_aggregate
+Lower middle income,,XN,uncoded_income_aggregate
+Luxembourg,LUX,LU,eligible_economy
+"Macao SAR, China",MAC,MO,eligible_economy
+Madagascar,MDG,MG,eligible_economy
+Malawi,MWI,MW,eligible_economy
+Malaysia,MYS,MY,eligible_economy
+Maldives,MDV,MV,eligible_economy
+Mali,MLI,ML,eligible_economy
+Malta,MLT,MT,eligible_economy
+Marshall Islands,MHL,MH,eligible_economy
+Mauritania,MRT,MR,eligible_economy
+Mauritius,MUS,MU,eligible_economy
+Mexico,MEX,MX,eligible_economy
+"Micronesia, Fed. Sts.",FSM,FM,eligible_economy
+"Middle East, North Africa, Afghanistan & Pakistan",MEA,ZQ,coded_aggregate
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",TMN,T3,coded_aggregate
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",MNA,XQ,coded_aggregate
+Middle income,MIC,XP,coded_aggregate
+Moldova,MDA,MD,eligible_economy
+Monaco,MCO,MC,eligible_economy
+Mongolia,MNG,MN,eligible_economy
+Montenegro,MNE,ME,eligible_economy
+Morocco,MAR,MA,eligible_economy
+Mozambique,MOZ,MZ,eligible_economy
+Myanmar,MMR,MM,eligible_economy
+Namibia,NAM,NA,eligible_economy
+Naoero,NRU,NR,eligible_economy
+Nepal,NPL,NP,eligible_economy
+Netherlands,NLD,NL,eligible_economy
+New Caledonia,NCL,NC,eligible_economy
+New Zealand,NZL,NZ,eligible_economy
+Nicaragua,NIC,NI,eligible_economy
+Niger,NER,NE,eligible_economy
+Nigeria,NGA,NG,eligible_economy
+North America,NAC,XU,coded_aggregate
+North Macedonia,MKD,MK,eligible_economy
+Northern Mariana Islands,MNP,MP,eligible_economy
+Norway,NOR,NO,eligible_economy
+Not classified,,XY,uncoded_income_aggregate
+OECD members,OED,OE,coded_aggregate
+Oman,OMN,OM,eligible_economy
+Other small states,OSS,S4,coded_aggregate
+Pacific island small states,PSS,S2,coded_aggregate
+Pakistan,PAK,PK,eligible_economy
+Palau,PLW,PW,eligible_economy
+Panama,PAN,PA,eligible_economy
+Papua New Guinea,PNG,PG,eligible_economy
+Paraguay,PRY,PY,eligible_economy
+Peru,PER,PE,eligible_economy
+Philippines,PHL,PH,eligible_economy
+Poland,POL,PL,eligible_economy
+Portugal,PRT,PT,eligible_economy
+Post-demographic dividend,PST,V4,coded_aggregate
+Pre-demographic dividend,PRE,V1,coded_aggregate
+Puerto Rico (US),PRI,PR,eligible_economy
+Qatar,QAT,QA,eligible_economy
+Romania,ROU,RO,eligible_economy
+Russian Federation,RUS,RU,eligible_economy
+Rwanda,RWA,RW,eligible_economy
+Samoa,WSM,WS,eligible_economy
+San Marino,SMR,SM,eligible_economy
+Sao Tome and Principe,STP,ST,eligible_economy
+Saudi Arabia,SAU,SA,eligible_economy
+Senegal,SEN,SN,eligible_economy
+Serbia,SRB,RS,eligible_economy
+Seychelles,SYC,SC,eligible_economy
+Sierra Leone,SLE,SL,eligible_economy
+Singapore,SGP,SG,eligible_economy
+Sint Maarten (Dutch part),SXM,SX,eligible_economy
+Slovak Republic,SVK,SK,eligible_economy
+Slovenia,SVN,SI,eligible_economy
+Small states,SST,S1,coded_aggregate
+Solomon Islands,SLB,SB,eligible_economy
+"Somalia, Fed. Rep.",SOM,SO,eligible_economy
+South Africa,ZAF,ZA,eligible_economy
+South Asia,SAS,8S,coded_aggregate
+South Asia (IDA & IBRD),TSA,T5,coded_aggregate
+South Sudan,SSD,SS,eligible_economy
+Spain,ESP,ES,eligible_economy
+Sri Lanka,LKA,LK,eligible_economy
+St. Kitts and Nevis,KNA,KN,eligible_economy
+St. Lucia,LCA,LC,eligible_economy
+St. Martin (French part),MAF,MF,eligible_economy
+St. Vincent and the Grenadines,VCT,VC,eligible_economy
+Sub-Saharan Africa,SSF,ZG,coded_aggregate
+Sub-Saharan Africa (IDA & IBRD countries),TSS,T6,coded_aggregate
+Sub-Saharan Africa (excluding high income),SSA,ZF,coded_aggregate
+Sudan,SDN,SD,eligible_economy
+Suriname,SUR,SR,eligible_economy
+Sweden,SWE,SE,eligible_economy
+Switzerland,CHE,CH,eligible_economy
+Syrian Arab Republic,SYR,SY,eligible_economy
+Tajikistan,TJK,TJ,eligible_economy
+Tanzania,TZA,TZ,eligible_economy
+Thailand,THA,TH,eligible_economy
+Timor-Leste,TLS,TL,eligible_economy
+Togo,TGO,TG,eligible_economy
+Tonga,TON,TO,eligible_economy
+Trinidad and Tobago,TTO,TT,eligible_economy
+Tunisia,TUN,TN,eligible_economy
+Turkiye,TUR,TR,eligible_economy
+Turkmenistan,TKM,TM,eligible_economy
+Turks and Caicos Islands,TCA,TC,eligible_economy
+Tuvalu,TUV,TV,eligible_economy
+Uganda,UGA,UG,eligible_economy
+Ukraine,UKR,UA,eligible_economy
+United Arab Emirates,ARE,AE,eligible_economy
+United Kingdom,GBR,GB,eligible_economy
+United States,USA,US,eligible_economy
+Upper middle income,,XT,uncoded_income_aggregate
+Uruguay,URY,UY,eligible_economy
+Uzbekistan,UZB,UZ,eligible_economy
+Vanuatu,VUT,VU,eligible_economy
+"Venezuela, RB",VEN,VE,eligible_economy
+Viet Nam,VNM,VN,eligible_economy
+Virgin Islands (U.S.),VIR,VI,eligible_economy
+West Bank and Gaza,PSE,PS,eligible_economy
+World,WLD,1W,coded_aggregate
+"Yemen, Rep.",YEM,YE,eligible_economy
+Zambia,ZMB,ZM,eligible_economy
+Zimbabwe,ZWE,ZW,eligible_economy
